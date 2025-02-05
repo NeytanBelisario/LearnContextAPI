@@ -1,0 +1,32 @@
+.botaoRedondo {
+    background-color: #ffffff;
+    border-radius: 9999px;
+    width: 30px;
+    height: 30px;
+}
+
+.botaoLigaDes {
+    background-color: #717171;
+    height: 30px;
+    width: 60px;
+    border-radius: 9999px;
+    display: flex;
+    padding: 5px 7px;
+}
+
+.divTheme{
+    display: flex;
+    align-items: center;
+    padding: 7px;
+    background-color: #9f9f9f;
+    border-radius: 3px;
+    outline: 2px solid #717171;
+}
+
+.textTheme{
+    background-color: #717171;
+    padding: 8px;
+    margin-right: 5px;
+    border-radius: 2px;
+    color: white;
+}

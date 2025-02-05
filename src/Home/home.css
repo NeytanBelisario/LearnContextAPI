@@ -1,0 +1,17 @@
+.cont1{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 0 5%;
+}
+
+@media (max-width: 559px) {
+    .cont1{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .divTheme{
+        margin-top: 15px;
+    }
+}
+
