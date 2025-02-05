@@ -1,7 +1,6 @@
 .tarefas{
     width: 100%;
     display: grid;
-    margin-top: 15px;
     justify-items: center;
 }
 .check{
